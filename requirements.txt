@@ -1,3 +1,11 @@
 numpy
 scipy
 sounddevice
+soundfile
+faster-whisper
+openai-whisper
+webrtcvad
+pyyaml
+python-dotenv
+rich
+tqdm

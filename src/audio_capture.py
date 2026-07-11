@@ -4,10 +4,10 @@ from scipy.io.wavfile import write
 
 SAMPLE_RATE = 16000
 DURATION = 5
-OUTPUT_FILE = "recoding.wav";
+OUTPUT_FILE = "recording.wav";
 
 def record_audio():
-    print("Recoding... ")
+    print("Recording... ")
     audio = sd.rec(
         int(DURATION * SAMPLE_RATE),
         samplerate=SAMPLE_RATE,

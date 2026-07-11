@@ -9,3 +9,5 @@ pyyaml
 python-dotenv
 rich
 tqdm
+webrtcvad
+sounddevice

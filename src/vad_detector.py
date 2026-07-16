@@ -97,5 +97,5 @@ Keep saving speech chunks
 If enough recent chunks are silence:
         stop recording
         ↓
-Save final speech as vad_recording.wav
+Save final speech as vad_recording.wavf
 """
